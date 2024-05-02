@@ -51,7 +51,7 @@ The data cleaning process involved the following steps:
 
 ## Documentation
 
-For detailed information about the data cleaning process, please refer to the Jupyter notebooks provided in this repository.
+For detailed information about the data cleaning process, please refer to the SQL file provided in this repository.
 
 
 
